@@ -1,0 +1,3 @@
+Select class methods
+1)isMultiple()
+2)getoptions()
